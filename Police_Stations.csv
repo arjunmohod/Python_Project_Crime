@@ -1,0 +1,13 @@
+﻿FID,STATUS,SCORE,SIDE,X,Y,STAN_ADDR,REF_ID,PCT_ALONG,ARC_STREET,GOCODE_SYM,BUILDING_C,BUILDING_N,ADDR,TYPE
+1,M,100,L,535301.032088,179157.783917,945 |  |  | 19TH | AVE | NE |,1727,6.9,945 19th Ave NE,2b,M1,Precinct No.2,945 19th Ave NE,Station
+2,M,100,R,538547.754551,157302.990894,3000 |  |  | MINNEHAHA | AVE | S |,2072,0,3000 Minnehaha Ave S,2b,M2,Precinct No.3,3000 Minnehaha Ave S,Station
+3,M,100,R,520245.030516,173021.697515,1925 |  |  | PLYMOUTH | AVE | N |,12114,75.5,1925 Plymouth Ave N.,2b,M3,Precinct No.4,1925 Plymouth Ave N.,Station
+4,M,100,R,527390.047529,156667.880537,3101 |  |  | NICOLLET | AVE |  |,1966,100,3101 Nicollet Ave,2b,M4,Precinct No.5,3101 Nicollet Ave,Station
+5,M,100,R,528769.924977,169181.668498,19 | N |  | 4TH | ST |  |,9103,81.6,19 North 4th Street,2b,PL1,Precinct No.1,19 North 4th Street,Station
+6,M,100,L,535170.789795,164807.041215,504 |  |  | CEDAR | AVE | S |,9731,47.5,504 Cedar Ave. S., , ,Cedar-Riverside,504 Cedar Ave. S.,Substation
+7,M,100,L,531001.911663,165026.633228,802 |  |  | 10TH | ST | S |,10339,2,802 10th St. S, , ,Elliott Park,802 10th St. S,Substation
+8,M,100,R,526894.751549,164378.411406,1500 |  |  | LASALLE | AVE | S |,9773,0,1500 LaSalle Ave. S., , ,Loring Park,1500 LaSalle Ave. S.,Substation
+9,M,100,R,532765.143963,171869.115451,22 |  |  | UNIVERSITY | AVE | NE |,8821,79.2,22 University Ave N.E., , ,East Hennepin,22 University Ave N.E.,Substation
+10,M,100,L,522963.855905,180679.764338,3113 |  |  | EMERSON | AVE | N |,6062,56.6,3113 Emerson Ave N, , ,Lowry/Emerson,3113 Emerson Ave N,Substation
+11,M,100,R,527357.146728,163081.161865,10 |  |  | 19TH | ST | E |,12754,91.7,10 19th St. E, , ,Stevens Square,10 19th St. E,Substation
+12,M,100,L,522067.384378,157623.881759,2929 |  |  | HENNEPIN | AVE | S |,10884,10.3,2929 Hennepin Ave. S, , ,Uptown Neighborhood,2929 Hennepin Ave. S,Substation
