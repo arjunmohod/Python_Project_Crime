@@ -23,7 +23,7 @@ crime_location['Latitude'] = crime['Lat']
 crime_location['Longitude'] = crime['Long']
 
 # Specify the no. of clusters required
-num_clusters = 7
+num_clusters = 13
 
 # Function call to create clusters using Kmeans2
 centeroid,cluster =clustering(crime_location,num_clusters)
